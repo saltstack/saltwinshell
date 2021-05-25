@@ -1,0 +1,4 @@
+include Synchronous-ZipAndUnzip.psm1
+include enable_winrm.ps1
+include Salt-Env-2017.7-AMD64-Py2.zip
+include Salt-Env-2017.7-x86-Py2.zip
